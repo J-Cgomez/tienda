@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "connect-multiparty": "^2.2.0",
+    "ngx-tinymce": "^11.0.0"
+  }
+}
